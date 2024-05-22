@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\black\\OneDrive\\\u684C\u9762\\ImageViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3D098-8541-4D39-8F73-C2473D24EC98}|ImageViewer\\ImageViewer.csproj|c:\\users\\black\\onedrive\\\u684C\u9762\\imageviewer\\imageviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAB3D098-8541-4D39-8F73-C2473D24EC98}|ImageViewer\\ImageViewer.csproj|solutionrelative:imageviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3D098-8541-4D39-8F73-C2473D24EC98}|ImageViewer\\ImageViewer.csproj|c:\\users\\black\\onedrive\\\u684C\u9762\\imageviewer\\imageviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB3D098-8541-4D39-8F73-C2473D24EC98}|ImageViewer\\ImageViewer.csproj|solutionrelative:imageviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB3D098-8541-4D39-8F73-C2473D24EC98}|ImageViewer\\ImageViewer.csproj|c:\\users\\black\\onedrive\\\u684C\u9762\\imageviewer\\imageviewer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB3D098-8541-4D39-8F73-C2473D24EC98}|ImageViewer\\ImageViewer.csproj|solutionrelative:imageviewer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\\u684C\u9762\\ImageViewer\\ImageViewer\\Program.cs",
+              "RelativeDocumentMoniker": "ImageViewer\\Program.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\\u684C\u9762\\ImageViewer\\ImageViewer\\Program.cs",
+              "RelativeToolTip": "ImageViewer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:47:58.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\\u684C\u9762\\ImageViewer\\ImageViewer\\Form1.cs",
+              "RelativeDocumentMoniker": "ImageViewer\\Form1.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\\u684C\u9762\\ImageViewer\\ImageViewer\\Form1.cs",
+              "RelativeToolTip": "ImageViewer\\Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:45:49.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\\u684C\u9762\\ImageViewer\\ImageViewer\\Form1.cs",
+              "RelativeDocumentMoniker": "ImageViewer\\Form1.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\\u684C\u9762\\ImageViewer\\ImageViewer\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "ImageViewer\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:44:18.486Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

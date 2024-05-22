@@ -1,0 +1,14 @@
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\bin\Debug\net8.0\ImageViewer.exe
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\bin\Debug\net8.0\ImageViewer.deps.json
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\bin\Debug\net8.0\ImageViewer.runtimeconfig.json
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\bin\Debug\net8.0\ImageViewer.dll
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\bin\Debug\net8.0\ImageViewer.pdb
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\obj\Debug\net8.0\ImageViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\obj\Debug\net8.0\ImageViewer.AssemblyInfoInputs.cache
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\obj\Debug\net8.0\ImageViewer.AssemblyInfo.cs
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\obj\Debug\net8.0\ImageViewer.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\obj\Debug\net8.0\ImageViewer.dll
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\obj\Debug\net8.0\refint\ImageViewer.dll
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\obj\Debug\net8.0\ImageViewer.pdb
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\obj\Debug\net8.0\ImageViewer.genruntimeconfig.cache
+C:\Users\black\OneDrive\桌面\ImageViewer\ImageViewer\obj\Debug\net8.0\ref\ImageViewer.dll
